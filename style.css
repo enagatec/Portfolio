@@ -62,12 +62,12 @@ Header
 }
 
 .header h1 {
-    font-size: 150px;
+    font-size: 130px;
     color: white;
     margin-top: 0;
     margin-left: 80px;
     padding-top: 90px;
-    line-height: 1.0;
+    line-height: 1.2;
     letter-spacing: 0.2em;
     font-weight: 300;
 }
@@ -148,7 +148,7 @@ Contact
     display: flex;
     flex-direction: column;
     gap: 20px;
-    width: 400px;
+    width: 600px;
 }
 
 .contact-form input,
@@ -157,7 +157,7 @@ Contact
     padding: 12px;
     font-size: 14px;
     border: none;
-    background-color: #eee;
+    background-color: #E2E2E2;
     border-radius: 5px;
     outline: none;
 }
